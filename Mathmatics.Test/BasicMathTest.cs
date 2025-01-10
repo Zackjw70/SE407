@@ -36,5 +36,6 @@ namespace Mathmatics.Test
             int result = _fixture.TestObject.Divide(6, 3);
             Assert.Equal(2, result);
         }
+        
     }
 }
